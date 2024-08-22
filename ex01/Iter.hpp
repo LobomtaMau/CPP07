@@ -12,7 +12,6 @@ void iter(Template *array, int len, Func funtion) {
 template <typename Template>
 void printCouves(const Template &other) {
     std::cout << other << " "; 
-
 }
 
 template <typename Template>

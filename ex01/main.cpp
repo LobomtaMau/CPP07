@@ -8,7 +8,7 @@ int main (){
     iter(array, len, printCouves<int>);
     std::cout << "\n";
 
-    std::cout << "Array after add: ";
+    std::cout << "Array after add +1: ";
     iter(array, len, addCouves<int>);
     iter(array, len, printCouves<int>);
     std::cout << "\n";
